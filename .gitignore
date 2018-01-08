@@ -1,3 +1,4 @@
+.output
 .terraform
 .terraform/*
 *terraform.tfstate
